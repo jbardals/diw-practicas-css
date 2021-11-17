@@ -1,0 +1,18 @@
+/* Pseudo-clases */
+a:hover{ /*Elemento apuntador pasa por encima*/
+    text-decoration: overline;
+  }
+  a:active{ /*Se activa cuando el usuario pulsa el elemento*/
+    background-color: yellow;
+  }
+  a:link{ /*No visitado por el usuario*/
+    color: green;
+  }
+
+  /*
+p:first-child{ color: red; } 
+p:last-child{ color: green; } */
+
+p:nth-child(1){ color: red; } 
+p:nth-child(2){ color: green; } 
+p:nth-child(4){ color: blue; } 

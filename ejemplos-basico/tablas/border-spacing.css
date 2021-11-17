@@ -1,0 +1,3 @@
+.a { border-collapse: separate; border-spacing: 50px 10px;}
+.b { border-collapse: collapse; border-spacing: 40px;} /* Solo tiene efecto cuando border-collapse: separate; */
+td,th { border: 1px solid black; }

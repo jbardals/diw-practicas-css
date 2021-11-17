@@ -1,0 +1,12 @@
+<head>
+    <meta charset="utf-8"> 
+    <title>Propiedad border-collapse</title> 
+    <link rel="stylesheet" href="form.css"> 
+</head>
+<body>
+    <form action="formulario-contacto.php" method="post">	
+        <input name="nombre" type="text" placeholder="Nombre" maxlength="30" pattern="[a-zA-Z0-9]+" required autofocus/>
+        <input name="email" type="email" placeholder="Correo electrónico" required />	
+        <textarea name="consulta" placeholder="¿Cuál es el motivo de tu consulta?" rows="6" required></textarea>
+        <button id="enviar" name="enviar" type="submit" class="btn">ENVIAR</button>
+</form>	

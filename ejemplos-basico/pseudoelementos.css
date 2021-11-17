@@ -1,0 +1,15 @@
+
+  /* Pseudoelementos */
+  p:first-line{
+    color: green; /* Primera linea en verde en párrafo */
+  }
+  h2:first-letter{
+    color: blue;  /* Primera letra de la primera línea de texto de un elemento */
+  }
+  p:after {         
+    content: " - Aloja more don"; /* :after: Añade contenido al final del documento */
+    color: red;
+  }
+  p:before {
+    content: "*. "; /* :before: Añade contenido al principio del documento */
+  }
