@@ -5,13 +5,11 @@ Crea un documento ****HTML**** cunha páxina web en ****HTML5**** que reproduza 
 
 ![Captura_do_horario](../imgs/img_task_selectors.png)
 
-****O********J********O****: no se pueden poner elementos duplicados, i.e, no podemos poner 2 veces DIW si no una vez DIW si ocupa 2 horas seguidas.
-
-_Opcional_: añadir estilos para hacerla visualmente más agradable.
 O texto está dispoñible sen formato no [ficheiro adxunto](../recursos/Texto_tarefa_selectors.txt)
 
 Emprega a seguinte regra de estilos para a táboa:
 `table, tr, th, td {border:1px solid #000; border-collapse:collapse; padding:5px;}`
+
 Escolle as cores do xeito máis semellante entre os seguintes: 
 ![paleta_cores](../imgs/paleta_cores.png)
 
