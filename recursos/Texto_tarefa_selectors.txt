@@ -1,0 +1,13 @@
+BIOS
+
+La BIOS es un chip de memoria del tipo CMOS que permite modificar parte de su contenido.Viene configurada de fábrica con los valores de la placa base por defecto. Sin embargo, esos valores podrán se modificados por el usuario según sus necesidades. Su ubicación en la placa base no es fija, suele identificarse fácilmente por medio de una pagetina plateada del fabricante. Los principales fabricantes de BIOS son Award y AMI.Award fabrica dos modelos: AwardBIOS y PhoenixBIOS.
+ 
+El chipset (puente norte y puente sur)
+ 
+La principal función del chipset es servir de apoyo al microprocesador en el control de los componentes de la placa base. Se dice que el chipset es la médula espinal del ordenador. El chipset engloba a los dos circuitos más importantes de la placa, el puente norte y el puente sur. El puente norte está próximo al socket y a los zócalos de memoria y el puente sur está próximo a los slots de expansión y a las conexiones de E/S.
+
+***táboa***
+
+Los zócalos de memoria son las ranuras de la placa donde se alojan los módulos de memoria.
+Han existido varios formatos de zócalo, el actual es el DIMM. El zócalo DIMM existe en tres formatos distintos que tienen la misma dimensión.
+Cada zócalo dispone de dos lengüetas, que sirven para expulsar el módulo del zócalo o par atraparlo en él, según su posición.
