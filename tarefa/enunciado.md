@@ -11,6 +11,7 @@ Emprega a seguinte regra de estilos para a táboa:
 `table, tr, th, td {border:1px solid #000; border-collapse:collapse; padding:5px;}`
 
 Escolle as cores do xeito máis semellante entre os seguintes: 
+
 ![paleta_cores](../imgs/paleta_cores.png)
 
 Entrega o ficheiro HTML e mais o ficheiro CSS
