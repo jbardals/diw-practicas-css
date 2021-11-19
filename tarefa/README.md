@@ -5,7 +5,6 @@
 
 *  Conocer cómo podemos seleccionar elementos HTML concretos de páginas web para aplicarles reglas de estilos con css (**selectores, pseudoclases, pseudoelementos**)
 * Aplicar las **reglas de estilo css** correspondientes a elementos **contenedores** y a elementos con **contenidos** tipo texto, enlaces, imágenes, tablas, listas, formularios, etc
-* imágenes Crear el layout de páginas web estáticas con contenedores genéricos o elementos semánticos
 * Aprender a ubicar los elementos HTML de las páginas web teniendo en cuenta el **Modelo de cajas** y los **tipos de posicionamiento** usando correctamente las propiedades correspondientes.
   
 
