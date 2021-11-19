@@ -38,7 +38,7 @@ NOTA 2: Achégase no arquivo [curriculum_sin_marcar](../recursos/curriculum_sin_
 A entrega desta tarefa farase mediante **2 ficheiros, un HTML e outro CSS**.
 
 
-## Ej3. APLICAR ESTILOS A FORMULARIO HTML5 (**3 pts**)
+## Ej3. APLICAR ESTILOS A FORMULARIO HTML5 (**4 pts**)
 
 A partir do código HTML proporcionado no adxunto [formulario de alta](../recursos/form_alta.html)
 
@@ -58,3 +58,12 @@ tendo en conta que:
 
 ![Exemplo](../imgs/exemplo_aptdo3.png)
 
+## Ej3. UNIDADES DE MEDIDA (**1 pts**)
+
+A folla de estilo styles.css da carpeta [ej4](../recursos/ej4) establece unha marxe de 1 em para os parágrafos do documento.
+
+1. Añade a declaración "font-size: 16px" á regla de estilo dos elementos p. Que sucede? Cal é es a anchura do marxen?
+
+2. Modifica o atributo font-size a 32px. Cal é agora a anchura do marxen?
+
+3. Modifica a regla para reducir a anchura do marxen a 16px pero mantendo o tamaño de letra dos párrafos en 32px. Que sucede?
