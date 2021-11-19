@@ -58,9 +58,9 @@ tendo en conta que:
 
 ![Exemplo](../imgs/exemplo_aptdo3.png)
 
-## Ej3. UNIDADES DE MEDIDA (**1 pts**)
+## Ej4. UNIDADES DE MEDIDA (**1 pts**)
 
-A folla de estilo styles.css da carpeta [ej4](../recursos/ej4) establece unha marxe de 1 em para os parágrafos do documento.
+A folla de estilo styles.css da carpeta [ej4](../recursos/ej4) establece unha marxe de 1 em para os parágrafos do documento html anexo.
 
 1. Añade a declaración "font-size: 16px" á regla de estilo dos elementos p. Que sucede? Cal é es a anchura do marxen?
 
