@@ -38,7 +38,26 @@ NOTA 2: Achégase no arquivo [curriculum_sin_marcar](../recursos/curriculum_sin_
 A entrega desta tarefa farase mediante **2 ficheiros, un HTML e outro CSS**.
 
 
-## Ej3. Web dunha pizzería (**3 pts**)
+## Ej3. APLICAR ESTILOS A FORMULARIO HTML5 (**3 pts**)
+
+A partir do código HTML proporcionado no adxunto [formulario de alta](../recursos/form_alta.html)
+
+1) Aplicar as reglas CSS necesarias para que o formulario HTML5 teña o seguinte aspecto:
+
+![img_form_alta](../imgs/img_form_alta.png)
+
+tendo en conta que:
+- Os campos do formulario agruparanse por apartados: Nome e Apelidos, Enderezo, Correo electrónico, Teléfono
+- Crea unha nova sección chamada Outros Datos cos campos:
+- - Data de Nacemento co formato dd/mm/aaaa visible
+- - Idade: se fixará facendo uso dun campo tipo rango de 0 a 100 
+- - Campo de texto libre para comentarios de 4 filas de alto e 30 columnas de ancho
+
+2) Cando o usuario pase o rato sobre cada grupo de elementos do formulario (é dicir, sobre cada <li>) debe modificarse a súa cor de fondo (suxestión: amarelo claro # FF9).
+3) Cando o usuario está situado nunha caixa de texto, debe modificarse o seu bordo para resaltar o campo que está activo en cada momento (suxestión: cor amarela # E6B700)
+
+![Exemplo](../imgs/exemplo_aptdo3.png)
+
 
 ### Estrutura semántica
 
@@ -57,14 +76,5 @@ A entrega desta tarefa farase mediante **2 ficheiros, un HTML e outro CSS**.
 Os contidos deben estar estruturados para que teñan sentido semántico. 
 Fai uso duns estilos mínimos (ver exemplo de ![estructura_secciones](estructura_secciones_html) para poder visualizar a estrutura do documento.
 
-
-## Ej4. Formulario HTML5  (**2 pts**)
-
-Implementa nun ficheiro html o código fuente para o seguinte formulario con HTML 5 facendo uso dos [HTML5 input types](https://www.w3schools.com/html/html_form_input_types.asp) oportunos.
-
-![Captura_do_centolo](../imgs/centollo.png)
-
-
-Podes usar a seguinte aplicación para comprobar que o código HTML é válido: [https://validator.w3.org/](https://validator.w3.org/)
 
 
