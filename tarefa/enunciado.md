@@ -49,11 +49,11 @@ A partir do código HTML proporcionado no adxunto [formulario de alta](../recurs
 tendo en conta que:
 - Os campos do formulario agruparanse por apartados: Nome e Apelidos, Enderezo, Correo electrónico, Teléfono
 - Crea unha nova sección chamada Outros Datos cos campos:
-- - Data de Nacemento co formato dd/mm/aaaa visible
-- - Idade: se fixará facendo uso dun campo tipo rango de 0 a 100 
-- - Campo de texto libre para comentarios de 4 filas de alto e 30 columnas de ancho
+  - Data de Nacemento co formato dd/mm/aaaa visible
+  - Idade: se fixará facendo uso dun campo tipo rango de 0 a 100 
+  - Campo de texto libre para comentarios de 4 filas de alto e 30 columnas de ancho
 
-2) Cando o usuario pase o rato sobre cada grupo de elementos do formulario (é dicir, sobre cada <li>) debe modificarse a súa cor de fondo (suxestión: amarelo claro # FF9).
+2) Cando o usuario pase o rato sobre cada grupo de elementos do formulario (é dicir, sobre cada `<li>`) debe modificarse a súa cor de fondo (suxestión: amarelo claro # FF9).
 3) Cando o usuario está situado nunha caixa de texto, debe modificarse o seu bordo para resaltar o campo que está activo en cada momento (suxestión: cor amarela # E6B700)
 
 ![Exemplo](../imgs/exemplo_aptdo3.png)
