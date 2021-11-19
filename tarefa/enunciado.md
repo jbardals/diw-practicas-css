@@ -54,27 +54,7 @@ tendo en conta que:
   - Campo de texto libre para comentarios de 4 filas de alto e 30 columnas de ancho
 
 2) Cando o usuario pase o rato sobre cada grupo de elementos do formulario (é dicir, sobre cada `<li>`) debe modificarse a súa cor de fondo (suxestión: amarelo claro # FF9).
-3) Cando o usuario está situado nunha caixa de texto, debe modificarse o seu bordo para resaltar o campo que está activo en cada momento (suxestión: cor amarela # E6B700)
+3) Cando o usuario está situado nunha caixa de texto, debe modificarse o seu bordo para resaltar o campo que está activo en cada momento (suxestión: cor amarela # E6B700) tal e como se ve na seguinte imaxe:
 
 ![Exemplo](../imgs/exemplo_aptdo3.png)
-
-
-### Estrutura semántica
-
- Crea documento HTML cunha páxina web de inicio para unha pizzería co nome index.html. O contido desta páxina debe cumprir as seguintes especificacións: 
- - O título que debe verse no navegador é “Pizzería Compostela”
- - O título que debe aparecer na cabeceira é “Pizzería Compostela”
- - Debaixo do título debe aparecer un subtítulo, asociado a el, co título “As mellores pizzas de Santiago”
- - No apartado que permite navegar polo sitio web haberá unha lista cos seguintes opcións:
- -- “Inicio”
- -- “Fai o teu pedido” (que enlace á páxina pedido.html que veremos)
- - Nesta páxina de inicio verase información sobre as distintas especialidades de pizza. A información de cada especialidade será:
-	 - Título co nome de cada pizza
-	 - Descrición dos ingredientes que leva a pizza correspondente
- - A pé de páxina aparecerá o nome da pizzería e a dirección. 
- 
-Os contidos deben estar estruturados para que teñan sentido semántico. 
-Fai uso duns estilos mínimos (ver exemplo de ![estructura_secciones](estructura_secciones_html) para poder visualizar a estrutura do documento.
-
-
 
